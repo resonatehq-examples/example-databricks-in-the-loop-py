@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.png" alt="Databricks in the Loop — Resonate example" />
+</p>
+
 # Integrating Databricks with your backend service with Resonate | Example application
 
 Databricks is a leading cloud-native data analytics platform that fully manages and optimizes Apache Spark infrastructure for you. It empowers data teams to iterate rapidly—developing prototypes in interactive notebooks and seamlessly scaling them into robust, production-grade pipelines and machine-learning services—all without the hassle of cluster provisioning, configuration, or maintenance.
